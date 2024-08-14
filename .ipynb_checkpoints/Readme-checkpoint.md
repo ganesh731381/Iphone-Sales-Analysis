@@ -1,0 +1,5 @@
+![screenshot1](https://github.com/ganesh731381/Iphone-Sales-Analysis/blob/main/screenshots/img1.png)
+![screenshot1](https://github.com/ganesh731381/Iphone-Sales-Analysis/blob/main/screenshots/img2.png)
+![screenshot1](https://github.com/ganesh731381/Iphone-Sales-Analysis/blob/main/screenshots/img3.png)
+![screenshot1](https://github.com/ganesh731381/Iphone-Sales-Analysis/blob/main/screenshots/img4.png)
+![screenshot1](https://github.com/ganesh731381/Iphone-Sales-Analysis/blob/main/screenshots/img5.png)
